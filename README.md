@@ -1,3 +1,6 @@
+![image](https://github.com/KennySpratt/movie_cards/assets/82186300/8fde56c3-fdbf-40f3-806a-527227dfc637)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
